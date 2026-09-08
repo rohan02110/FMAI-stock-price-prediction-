@@ -1,0 +1,11 @@
+{
+  "include": [
+    "."
+  ],
+  "extraPaths": [
+    "C:/Users/Hp/PythonPortable/Lib/site-packages",
+    "C:/Users/Hp/PythonPortable"
+  ],
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": false
+}

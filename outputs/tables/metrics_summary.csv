@@ -1,0 +1,3 @@
+Model,MAE (INR),RMSE (INR),R2 Score
+Linear Regression (Primary),5.6898,9.3266,0.988
+Random Forest Regressor (Benchmark),8.7684,11.8098,0.9807

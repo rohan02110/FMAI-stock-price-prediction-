@@ -1,0 +1,17 @@
+[tool.pyrefly]
+search-paths = [
+    "C:/Users/Hp/PythonPortable/Lib/site-packages",
+    "C:/Users/Hp/PythonPortable"
+]
+disabled-rules = [
+    "missing-import",
+    "untyped-import"
+]
+
+[tool.pyright]
+extraPaths = [
+    "C:/Users/Hp/PythonPortable/Lib/site-packages",
+    "C:/Users/Hp/PythonPortable"
+]
+reportMissingImports = "none"
+reportMissingTypeStubs = false
